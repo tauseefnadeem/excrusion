@@ -1,15 +1,30 @@
 body{
   background: black;
   text-align: center;
+  font-family: verdana;
 }
 h1{
-  font-family: verdana;
+
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
+
 }
-h3{
+a{
+  cursor: pointer;
+  text-decoration: underline;
+}
+.cta{
   color: Aquamarine;
   font-size: 16px;
+}
+
+h2{
+  color: white;
+}
+
+.footer{
+  text-align: right !important;
+  color: grey;
+  padding-top: 50px;
 }
